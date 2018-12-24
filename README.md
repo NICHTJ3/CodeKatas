@@ -25,3 +25,15 @@
 
 - [ ] Replace With Alphabet Position
   - https://www.codewars.com/kata/array-dot-diff/train/javascript
+
+- [ ] IP Validation
+  - https://www.codewars.com/kata/515decfd9dcfc23bb6000006/train/javascript
+
+- [ ] Molecule to atoms
+  - https://www.codewars.com/kata/52f831fa9d332c6591000511/train/javascript
+
+- [ ] Conway's Game of Life - Unlimited Edition
+  - https://www.codewars.com/kata/52423db9add6f6fc39000354/train/javascript
+
+- [ ] Calculating with Functions
+  - https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/train/javascript
