@@ -20,8 +20,8 @@
 - [x] Split Strings
   - https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/train/javascript
 
-- [ ] Array.diff
+- [x] Array.diff
   - https://www.codewars.com/kata/array-dot-diff
 
 - [ ] Replace With Alphabet Position
-  - https://www.codewars.com/kata/replace-with-alphabet-position
+  - https://www.codewars.com/kata/array-dot-diff/train/javascript
