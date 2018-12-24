@@ -14,7 +14,7 @@
 - [x] Moving Zeros To The End
   - https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/javascript
 
-- [ ] RGB To Hex Conversion
+- [x] RGB To Hex Conversion
   - https://www.codewars.com/kata/513e08acc600c94f01000001/train/javascript
 
 - [ ] Split Strings
