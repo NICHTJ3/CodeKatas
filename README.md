@@ -17,7 +17,7 @@
 - [x] RGB To Hex Conversion
   - https://www.codewars.com/kata/513e08acc600c94f01000001/train/javascript
 
-- [ ] Split Strings
+- [x] Split Strings
   - https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/train/javascript
 
 - [ ] Array.diff
