@@ -23,7 +23,7 @@
 - [x] Array.diff
   - https://www.codewars.com/kata/array-dot-diff/train/javascript
 
-- [ ] Multiplying numbers as strings
+- <del>[ ] Multiplying numbers as strings</del>
   - ### Could not finish :(
   - https://www.codewars.com/kata/multiplying-numbers-as-strings/train/javascript
 
