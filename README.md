@@ -23,8 +23,8 @@
 - [x] Array.diff
   - https://www.codewars.com/kata/array-dot-diff/train/javascript
 
-- <del>[ ] Multiplying numbers as strings
-  - https://www.codewars.com/kata/multiplying-numbers-as-strings/train/javascript</del>
+- <del>[ ] Multiplying numbers as strings</del>
+  - <del>https://www.codewars.com/kata/multiplying-numbers-as-strings/train/javascript</del>
 
 - [ ] IP Validation
   - https://www.codewars.com/kata/515decfd9dcfc23bb6000006/train/javascript
