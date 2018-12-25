@@ -21,10 +21,11 @@
   - https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/train/javascript
 
 - [x] Array.diff
-  - https://www.codewars.com/kata/array-dot-diff
-
-- [ ] Replace With Alphabet Position
   - https://www.codewars.com/kata/array-dot-diff/train/javascript
+
+- [ ] Multiplying numbers as strings
+  - ### Could not finish :(
+  - https://www.codewars.com/kata/multiplying-numbers-as-strings/train/javascript
 
 - [ ] IP Validation
   - https://www.codewars.com/kata/515decfd9dcfc23bb6000006/train/javascript
@@ -37,3 +38,6 @@
 
 - [ ] Calculating with Functions
   - https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/train/javascript
+
+- [ ] Tic-Tac-Toe Checker
+  - https://www.codewars.com/kata/525caa5c1bf619d28c000335/train/javascript
