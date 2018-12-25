@@ -35,7 +35,7 @@
 - [ ] Conway's Game of Life - Unlimited Edition
   - https://www.codewars.com/kata/52423db9add6f6fc39000354/train/javascript
 
-- [ ] Calculating with Functions
+- [x] Calculating with Functions
   - https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/train/javascript
 
 - [ ] Tic-Tac-Toe Checker
