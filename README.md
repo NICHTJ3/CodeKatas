@@ -40,3 +40,5 @@
 
 - [ ] Tic-Tac-Toe Checker
   - https://www.codewars.com/kata/525caa5c1bf619d28c000335/train/javascript
+- [ ] Did I Finish my Sudoku?
+  - https://www.codewars.com/kata/did-i-finish-my-sudoku/train/javascript
