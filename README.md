@@ -12,8 +12,6 @@
 - [ ] Conway's Game of Life - Unlimited Edition
   - https://www.codewars.com/kata/52423db9add6f6fc39000354/train/javascript
 
-- [ ] Tic-Tac-Toe Checker
-  - https://www.codewars.com/kata/525caa5c1bf619d28c000335/train/javascript
 
 - [ ] Did I Finish my Sudoku?
   - https://www.codewars.com/kata/did-i-finish-my-sudoku/train/javascript
@@ -42,6 +40,9 @@
 
 - [x] Calculating with Functions
   - https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/train/javascript
+
+- [x] Tic-Tac-Toe Checker
+  - https://www.codewars.com/kata/525caa5c1bf619d28c000335/train/javascript
 
 ### Katas Unfinished
 - <del>[ ] Multiplying numbers as strings</del>
