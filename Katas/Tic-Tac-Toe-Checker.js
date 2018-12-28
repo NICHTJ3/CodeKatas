@@ -33,6 +33,14 @@ const isSolved = (board)=>{
   return winner
 }
 
+// Very Cheeky uses regex to check solved
+function isSolved(board) {
+   board = board.join('-').replace(/,/g,'');
+   return (/222|2...2...2|2....2....2|2..2..2/.test(board))?2:
+     (/111|1...1...1|1....1....1|1..1..1/.test(board))?1:
+     (/0/.test(board))?-1:0
+}
+
 console.log(isSolved([[0,0,1],
   [0,1,2],
   [2,1,0]]) === -1);
