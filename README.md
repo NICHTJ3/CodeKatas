@@ -12,6 +12,8 @@
 - [ ] Conway's Game of Life - Unlimited Edition
   - https://www.codewars.com/kata/52423db9add6f6fc39000354/train/javascript
 
+- [ ] Read the time
+  - https://www.codewars.com/kata/read-the-time
 
 - [ ] Did I Finish my Sudoku?
   - https://www.codewars.com/kata/did-i-finish-my-sudoku/train/javascript
