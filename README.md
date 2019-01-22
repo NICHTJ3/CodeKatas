@@ -3,6 +3,9 @@
 ## Katas
 
 ### Katas todo
+- [ ] Read the time
+  - https://www.codewars.com/kata/read-the-time
+
 - [ ] IP Validation
   - https://www.codewars.com/kata/515decfd9dcfc23bb6000006/train/javascript
 
@@ -12,11 +15,26 @@
 - [ ] Conway's Game of Life - Unlimited Edition
   - https://www.codewars.com/kata/52423db9add6f6fc39000354/train/javascript
 
-- [ ] Read the time
-  - https://www.codewars.com/kata/read-the-time
-
 - [ ] Did I Finish my Sudoku?
   - https://www.codewars.com/kata/did-i-finish-my-sudoku/train/javascript
+
+- [ ] Disease Spread
+  - https://www.codewars.com/kata/disease-spread
+
+- [ ] Rot-13
+  - https://www.codewars.com/kata/rot13-1
+
+- [ ] DNA to RNA Coversion
+  - https://www.codewars.com/kata/dna-to-rna-conversion
+
+- [ ] If you can't sleep just count sheep
+  - https://www.codewars.com/kata/if-you-cant-sleep-just-count-sheep
+
+- [ ] Filter out the geese
+  - https://www.codewars.com/kata/filter-out-the-geese
+
+- [ ] Students final grade
+  - https://www.codewars.com/kata/students-final-grade
 
 ### Katas Finished
 - [x] Create a phone number
@@ -46,10 +64,5 @@
 - [x] Tic-Tac-Toe Checker
   - https://www.codewars.com/kata/525caa5c1bf619d28c000335/train/javascript
 
-### Katas Unfinished
-- <del>[ ] Multiplying numbers as strings</del>
-  - <del>https://www.codewars.com/kata/multiplying-numbers-as-strings/train/javascript</del>
-
-
-
-
+- [x] Multiplying numbers as strings
+  - https://www.codewars.com/kata/multiplying-numbers-as-strings/train/javascript
