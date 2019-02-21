@@ -2,13 +2,11 @@
 
 ## Katas
 
-### Katas todo
+### Katas started
 - [ ] Read the time
   - https://www.codewars.com/kata/read-the-time
 
-- [ ] IP Validation
-  - https://www.codewars.com/kata/515decfd9dcfc23bb6000006/train/javascript
-
+### Katas todo
 - [ ] Molecule to atoms
   - https://www.codewars.com/kata/52f831fa9d332c6591000511/train/javascript
 
@@ -30,13 +28,13 @@
 - [ ] If you can't sleep just count sheep
   - https://www.codewars.com/kata/if-you-cant-sleep-just-count-sheep
 
-- [ ] Filter out the geese
-  - https://www.codewars.com/kata/filter-out-the-geese
-
 - [ ] Students final grade
   - https://www.codewars.com/kata/students-final-grade
 
 ### Katas Finished
+- [x] IP Validation
+  - https://www.codewars.com/kata/515decfd9dcfc23bb6000006/train/javascript
+
 - [x] Create a phone number
   - https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/javascript
 
@@ -63,6 +61,9 @@
 
 - [x] Tic-Tac-Toe Checker
   - https://www.codewars.com/kata/525caa5c1bf619d28c000335/train/javascript
+
+- [x] Filter out the geese
+  - https://www.codewars.com/kata/filter-out-the-geese
 
 - [x] Multiplying numbers as strings
   - https://www.codewars.com/kata/multiplying-numbers-as-strings/train/javascript

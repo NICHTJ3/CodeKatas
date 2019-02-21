@@ -19,11 +19,11 @@ const isSolved = (board)=>{
   columns.forEach((column)=>{
     if (column.every(v=>v===column[0])&&column[0]!=0)
       winner= column[0]
-  })
+  });
   diagonals.forEach((diagonal)=>{
     if (diagonal.every(v=>v===diagonal[0])&&diagonal[0]!=0)
       winner= diagonal[0]
-  })
+  });
 
   //Check for draw
   if(board.every((x)=>x.every((y)=>y!=0)))
