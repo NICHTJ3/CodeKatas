@@ -6,6 +6,12 @@
 - [ ] Read the time
   - https://www.codewars.com/kata/read-the-time
 
+- [X] If you can't sleep just count sheep
+  - https://www.codewars.com/kata/if-you-cant-sleep-just-count-sheep
+
+- [x] IP Validation
+  - https://www.codewars.com/kata/515decfd9dcfc23bb6000006/train/javascript
+
 ### Katas todo
 - [ ] Molecule to atoms
   - https://www.codewars.com/kata/52f831fa9d332c6591000511/train/javascript
@@ -25,16 +31,10 @@
 - [ ] DNA to RNA Coversion
   - https://www.codewars.com/kata/dna-to-rna-conversion
 
-- [ ] If you can't sleep just count sheep
-  - https://www.codewars.com/kata/if-you-cant-sleep-just-count-sheep
-
 - [ ] Students final grade
   - https://www.codewars.com/kata/students-final-grade
 
 ### Katas Finished
-- [x] IP Validation
-  - https://www.codewars.com/kata/515decfd9dcfc23bb6000006/train/javascript
-
 - [x] Create a phone number
   - https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/javascript
 
