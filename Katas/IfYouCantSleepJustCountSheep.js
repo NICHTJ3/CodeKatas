@@ -8,6 +8,7 @@ function countSheep(num) {
 
 function countSheep(num) {
   return Array(num).fill(0).reduce((total, _, currentIndex) => total+=`${currentIndex+1} sheep...`, "");
+  // return [...Array(num)].reduce((total, _, currentIndex) => total+=`${currentIndex+1} sheep...`, "");
 }
 
 console.log(countSheep(1) === "1 sheep...");

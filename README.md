@@ -1,8 +1,8 @@
-# Code katas
+# Katas
 
-## Katas
+## Katas started
+  Please add Katas to CodeWars if they are checked off
 
-### Katas started
 - [ ] Read the time
   - https://www.codewars.com/kata/read-the-time
 
@@ -12,7 +12,7 @@
 - [x] IP Validation
   - https://www.codewars.com/kata/515decfd9dcfc23bb6000006/train/javascript
 
-### Katas todo
+## Katas todo
 - [ ] Molecule to atoms
   - https://www.codewars.com/kata/52f831fa9d332c6591000511/train/javascript
 
@@ -34,7 +34,7 @@
 - [ ] Students final grade
   - https://www.codewars.com/kata/students-final-grade
 
-### Katas Finished
+## Katas Finished
 - [x] Create a phone number
   - https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/javascript
 
