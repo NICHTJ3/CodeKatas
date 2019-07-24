@@ -8,7 +8,7 @@ function array_diff(a, b) {
 // First attempt does not work for random arrays
 function array_diff(a, b) {
   var temp = [];
-  for (let [i, e] of a.entries()) {
+  for (let [, e] of a.entries()) {
     if (b.indexOf(e) < 0) {
       temp.push(e);
     }
