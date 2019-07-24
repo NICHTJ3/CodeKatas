@@ -9,6 +9,7 @@ function array_diff(a, b) {
 function array_diff(a, b) {
   let temp = [];
   for (let [, e] of a.entries()) {
+  // for (let {1:e} of a.entries()) {
     if (b.indexOf(e) < 0) {
       temp.push(e);
     }
